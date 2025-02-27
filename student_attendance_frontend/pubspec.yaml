@@ -1,0 +1,10 @@
+name: student_attendance_frontend
+description: A Flutter application for student attendance management.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+
+flutter:
+  uses-material-design: true
